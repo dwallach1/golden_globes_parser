@@ -5,7 +5,7 @@ Used to parse tweets from a corpus of 750,000 tweets gathered from Twitter durin
 
 The program works as follows:
 
-1. Set the `YEAR` variable & path `EXT` variable 
+1. Set the `YEAR` variable & path `EXT` variable (Note: the data file in the data folder is large so you must unzip it after pulling the repo and then update the path parameter accordingly)
 2. Run the `parser.py` file
 
 
