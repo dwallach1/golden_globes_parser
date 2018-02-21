@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Group members: 
-
-David Wallach (daw647),
-Bodhi Alarcon (bta566),
-Junhao Li,
-Weixin
-
 
 This program uses the global variable YEAR to find the Wikipedia page of the associated
 golden globes event. From the Wikipedia page, it scrapes the name of all the awards given as well 
